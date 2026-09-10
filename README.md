@@ -14,6 +14,7 @@ Initially i tried to make it black but it changed color to smth random and it lo
 
 # FILES
 /Production folder has all the production files
+
 /PCB files has all the pcb project files in it
 
 #CREDITS
