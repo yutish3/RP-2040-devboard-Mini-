@@ -31,7 +31,8 @@ Initially i tried to make it black but it changed color to smth random and it lo
 
 /PCB files has all the pcb project files in it
 
-#CREDITS
+# CREDITS
+
 Kicad 
 
 
