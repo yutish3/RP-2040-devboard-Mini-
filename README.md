@@ -3,14 +3,21 @@ rp-2040 dev board in small form factor of 3cm x 6cm made in kicad
 
 it has :- 2 x 20 pin connectors , separate headers for HC - 05 Bluetooth module , extra 4Mb flash memory , USB c port , 2 buttons for BOOT and Reset and TC2030 connector for programming without usb c
 
-## IMAGES
+# IMAGES
+
 # SCHEMATICS 
+
 <img width="1536" height="882" alt="image" src="https://github.com/user-attachments/assets/ee008447-9299-40c5-9657-6161fd7b5a2b" />
+
 # FOOTPRINTS
+
 <img width="1620" height="1198" alt="image" src="https://github.com/user-attachments/assets/be08e95e-0ba7-4c83-b895-38ba31613a95" />
+
 # PCB
+
 <img width="628" height="1164" alt="image" src="https://github.com/user-attachments/assets/a1b52320-4300-4809-88bc-0b15611a4dbc" />
 
+# RENDER
 
 Initially i tried to make it black but it changed color to smth random and it looks way cooler now 
 
